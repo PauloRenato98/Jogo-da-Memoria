@@ -1,0 +1,14 @@
+div {
+    background-color: aqua;
+    width : 100px;
+    height : 100px;
+    margin-bottom: 10px;
+    display: grid;
+    display: inline-grid;
+    text-align: center;
+  }
+
+  img{
+    border-style: solid;
+    border-width: 4px;
+  }
